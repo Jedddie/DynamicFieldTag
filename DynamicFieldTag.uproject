@@ -1,13 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.22",
+	"EngineAssociation": "{BD54757C-4711-9353-AC31-8980F4AF16F7}",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "NoisePlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c93227758ff048db9c8c7cc48dff140c"
-		}
-	]
+	"Description": ""
 }
